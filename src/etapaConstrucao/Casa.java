@@ -1,4 +1,4 @@
-import etapaConstrucao.PlantaCasa;
+package etapaConstrucao;
 
 public class Casa {
 
